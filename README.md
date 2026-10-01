@@ -37,3 +37,4 @@ This text needs fixing.
 
 Issue → Branch → Commit → Push → Pull Request → Review → Merge → Done
 
+GitHub 협업 흐름을 단계별로 직접 연습합니다.
