@@ -1,15 +1,21 @@
-# GitHub Workflow Practice
+ï»¿# GitHub Workflow Practice
 
-## ½ÇÇà ¹æ¹ı
+GitHub Issue, Branch, Pull Request, Review, Projects, GitHub Actionsë¥¼ ì§ì ‘ ì—°ìŠµí•˜ëŠ” ì €ì¥ì†Œì…ë‹ˆë‹¤.
 
+## ì‹¤í–‰ ë°©ë²•
+
+```bash
 node app.js
+```
 
 ## Main Protection Test
-PR ½ÂÀÎ ÈÄ MergeµÇ´ÂÁö È®ÀÎÇÏ´Â Å×½ºÆ®ÀÔ´Ï´Ù.
 
-## gh CLI ºê·£Ä¡ ¿¬½À ¿Ï·á
+PR ìŠ¹ì¸ í›„ Mergeë˜ëŠ”ì§€ í™•ì¸í•˜ëŠ” í…ŒìŠ¤íŠ¸ì…ë‹ˆë‹¤.
+
+## gh CLI ë¸Œëœì¹˜ ì—°ìŠµ ì™„ë£Œ
 
 ## Review Test
+
 This text needs fixing.
 
 ---
@@ -30,3 +36,4 @@ This text needs fixing.
 ## ğŸ”„ í˜‘ì—… íë¦„
 
 Issue â†’ Branch â†’ Commit â†’ Push â†’ Pull Request â†’ Review â†’ Merge â†’ Done
+
