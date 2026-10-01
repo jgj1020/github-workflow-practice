@@ -11,3 +11,22 @@ PR ���� �� Merge�Ǵ��� Ȯ���ϴ� �׽�Ʈ�Դϴ�.
 
 ## Review Test
 This text needs fixing.
+
+---
+
+## 📚 연습 자료 바로가기
+
+- [GitHub 심화 연습 전체 정리](./GITHUB_WORKFLOW_PRACTICE.md)
+- [GitHub Actions 사용 가이드](./GITHUB_ACTIONS_GUIDE.md)
+
+## 🔗 GitHub 바로가기
+
+- [Issues](https://github.com/jgj1020/github-workflow-practice/issues)
+- [Pull Requests](https://github.com/jgj1020/github-workflow-practice/pulls)
+- [Actions](https://github.com/jgj1020/github-workflow-practice/actions)
+- [Branches](https://github.com/jgj1020/github-workflow-practice/branches)
+- [Projects](https://github.com/users/jgj1020/projects)
+
+## 🔄 협업 흐름
+
+Issue → Branch → Commit → Push → Pull Request → Review → Merge → Done
