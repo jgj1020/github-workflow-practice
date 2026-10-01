@@ -1,13 +1,13 @@
-ï»¿# GitHub Workflow Practice
+# GitHub Workflow Practice
 
-## ì‹¤í–‰ ë°©ë²•
+## ½ÇÇà ¹æ¹ı
 
 node app.js
 
 ## Main Protection Test
-PR ìŠ¹ì¸ í›„ Mergeë˜ëŠ”ì§€ í™•ì¸í•˜ëŠ” í…ŒìŠ¤íŠ¸ì…ë‹ˆë‹¤.
+PR ½ÂÀÎ ÈÄ MergeµÇ´ÂÁö È®ÀÎÇÏ´Â Å×½ºÆ®ÀÔ´Ï´Ù.
 
-## gh CLI ë¸Œëœì¹˜ ì—°ìŠµ ì™„ë£Œ
+## gh CLI ºê·£Ä¡ ¿¬½À ¿Ï·á
 
 ## Review Test
-This text need fix.
+This text needs fixing.
