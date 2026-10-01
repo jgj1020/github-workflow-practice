@@ -78,3 +78,6 @@ Pull Request를 통해 리뷰를 진행하는 전체 협업 흐름을 연습했�
 
 또한 Squash Merge, Issue 자동 종료,
 작업 브랜치 삭제 흐름까지 확인했다.
+
+## GitHub Projects 연습
+Todo → In Progress → Done 상태 변경 흐름을 연습했다.
