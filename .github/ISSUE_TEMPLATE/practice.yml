@@ -1,0 +1,28 @@
+﻿name: Practice
+description: GitHub Issue Forms 연습용 템플릿
+title: "[Practice] "
+labels:
+  - documentation
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        GitHub Issue Forms 연습입니다.
+
+  - type: textarea
+    id: goal
+    attributes:
+      label: 목표
+      description: 이번 작업의 목표를 작성하세요.
+      placeholder: 예) Draft PR 흐름을 연습한다.
+    validations:
+      required: true
+
+  - type: textarea
+    id: done
+    attributes:
+      label: 완료 기준
+      description: 작업 완료 조건을 작성하세요.
+    validations:
+      required: true
